@@ -1,1 +1,1 @@
-# Course-code
+Using greedy algorithm to sovle travelling salesman problem
