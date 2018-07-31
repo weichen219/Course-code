@@ -6,4 +6,4 @@ Using greedy algorithm to sovle travelling salesman problem in matlab
 
 Course name : Production Scheduling
 
-Using Simulated Annealing algorithm to sovle mean flow time of single machine scheduling problem in matlab
+Using Simulated Annealing algorithm to sovle mean flow time of single machine scheduling problem in python
