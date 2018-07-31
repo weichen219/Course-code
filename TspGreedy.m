@@ -65,8 +65,8 @@ end
 go_back_start=dist(current_pos,start_pos);
 total_dis=total_dis+go_back_start ;
 
-disp('¨«¹L«°¥«¶¶§Ç')
+disp('åŸå¸‚æ—…éŠé †åº')
 disp(recode_pos)
-disp('Á`¶ZÂ÷')
+disp('ç¸½è·é›¢')
 disp(total_dis)
 
